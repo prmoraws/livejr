@@ -13,18 +13,18 @@
                 <div class="otnotice-content">
                     <div class="otnotice-sections">
                         <section class="otnotice-section" id="otnotice-section-41e75c3b-71d4-45d7-a24a-2b73042d8363">
-                            <h2 class="otnotice-section-header">IGREJA UNIVERSAL DO REINO DE DEUS</h2>
+                            <h2 class="otnotice-section-header ml-4">IGREJA UNIVERSAL DO REINO DE DEUS</h2>
                             <div class="otnotice-section-content">
                                 <p id="isPasted"><strong><span
-                                            style="font-size:14px;color:rgb( 0 , 0 , 0 )">Controlador:&nbsp;</span></strong><span
-                                        style="font-size:14px;color:rgb( 0 , 0 , 0 )"><strong>IGREJA UNIVERSAL DO REINO
+                                            class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Controlador:&nbsp;</span></strong><span
+                                        class="text-lg ml-4 text-2xl text-gray-900 dark:text-gray-100"><strong>IGREJA UNIVERSAL DO REINO
                                             DE
                                             DEUS</strong>, com sede na cidade de São Paulo, Estado de São Paulo, na
                                         Avenida Celso
                                         Garcia, nº 499, Brás, CEP 03015-000, inscrita no CNPJ/ME sob o nº
                                         29744778/0001-97&nbsp;(“INSTITUIÇÃO”).</span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">&nbsp;</span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">Esta Política de Privacidade
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">&nbsp;</span></p>
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Esta Política de Privacidade
                                         (“Política de
                                         Privacidade”) contém informações sobre a coleta, o uso, o processamento e o
                                         compartilhamento
@@ -35,8 +35,8 @@
                                         podcasts,
                                         pesquisas, iniciativas e ações institucionais relacionadas aos projetos da
                                         INSTITUIÇÃO.</span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">&nbsp;</span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">Esta Política de Privacidade foi
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">&nbsp;</span></p>
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Esta Política de Privacidade foi
                                         implementada
                                         de acordo com as obrigações estipuladas pela Lei nº 12.965, de 23 de abril de
                                         2014 (“MCI”),
@@ -45,41 +45,41 @@
                                         regulamentos aplicáveis ao Tratamento de Dados Pessoais dos Usuários
                                         (“Legislação de
                                         Proteção de Dados Aplicável”).&nbsp;</span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">&nbsp;</span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">Essa Política de Privacidade é
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">&nbsp;</span></p>
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Essa Política de Privacidade é
                                         dividida da
                                         seguinte forma:</span></p>
                                 <ol>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Objetivo da Política de
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Objetivo da Política de
                                         Privacidade</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Definições Relevantes</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Abrangência</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Como utilizamos seus dados
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Definições Relevantes</li>
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Abrangência</li>
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Como utilizamos seus dados
                                         pessoais</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Responsabilidades dos Usuários
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Responsabilidades dos Usuários
                                     </li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Informações sobre dispositivos e
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Informações sobre dispositivos e
                                         Cookies</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Bases Legais utilizadas pela
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Bases Legais utilizadas pela
                                         Instituição</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Compartilhamento de Dados Pessoais
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Compartilhamento de Dados Pessoais
                                         com
                                         Terceiros</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Armazenamento e Término do
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Armazenamento e Término do
                                         Tratamento de seus
                                         Dados Pessoais</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Medidas de Segurança&nbsp;</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Monitoramento por CFTV</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Transferência Internacional de
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Medidas de Segurança&nbsp;</li>
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Monitoramento por CFTV</li>
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Transferência Internacional de
                                         Dados Pessoais
                                     </li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Direitos dos Titulares de Dados
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Direitos dos Titulares de Dados
                                         Pessoais</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Validade desta Política e
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Validade desta Política e
                                         histórico de versões
                                     </li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Suporte ao sistema e APPS</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Contato sobre a LGPD e Encarregado
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Suporte ao sistema e APPS</li>
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Contato sobre a LGPD e Encarregado
                                     </li>
                                 </ol>
                             </div>
@@ -87,7 +87,7 @@
                         <section class="otnotice-section" id="otnotice-section-e97b3538-4780-45aa-a67c-eb785d90a4c8">
                             <h2 class="otnotice-section-header">1. OBJETIVO DA POLÍTICA DE PRIVACIDADE: </h2>
                             <div class="otnotice-section-content">
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">1.1. A INSTITUIÇÃO preza pela
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">1.1. A INSTITUIÇÃO preza pela
                                         segurança e
                                         confidencialidade das informações fornecidas pelos Usuários. Por esta razão, a
                                         INSTITUIÇÃO
@@ -125,7 +125,7 @@
                         <section class="otnotice-section" id="otnotice-section-4a945272-ad7a-4186-8486-3eb38074b1a7">
                             <h2 class="otnotice-section-header">2. DEFINIÇÕES RELEVANTES: </h2>
                             <div class="otnotice-section-content">
-                                <p id="isPasted"><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">2.1. Para os fins
+                                <p id="isPasted"><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">2.1. Para os fins
                                         desta
                                         Política de Privacidade, os termos iniciados em letra maiúscula, exceto se
                                         definidos de
@@ -197,15 +197,15 @@
                                         algumas situações, a Igreja Universal do Reino de Deus será operadora dos dados
                                         pessoais por
                                         ela tratados.</span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )"><br></span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )"><strong>Site e/ou
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100"><br></span></p>
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100"><strong>Site e/ou
                                             Aplicativo:</strong> o site
                                         e o aplicativo disponibilizados no endereço <a href="//www.universal.org"
                                             rel="nofollow">www.universal.org</a> da INSTITUIÇÃO por meio dos quais o
                                         Usuário acessa
                                         o conteúdo lá disponibilizado.</span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )"><br></span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )"><strong>Titular de
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100"><br></span></p>
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100"><strong>Titular de
                                             dados:</strong> pessoa
                                         natural a quem se referem os dados pessoais que são objetos de tratamento. Ou
                                         seja, você que
@@ -231,7 +231,7 @@
                         <section class="otnotice-section" id="otnotice-section-a5a5c4e2-9ab7-4f90-8071-7763801b44ae">
                             <h2 class="otnotice-section-header">3. ABRANGÊNCIA: </h2>
                             <div class="otnotice-section-content">
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">A Política de Privacidade da
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">A Política de Privacidade da
                                         Igreja Universal
                                         do Reino de Deus se aplica a todas as atividades que utilizam dados pessoais de
                                         titulares de
@@ -241,73 +241,73 @@
                         <section class="otnotice-section" id="otnotice-section-7f03d4c5-111f-491d-80eb-bd98bca19f19">
                             <h2 class="otnotice-section-header">4. COMO UTILIZAMOS SEUS DADOS PESSOAIS: </h2>
                             <div class="otnotice-section-content">
-                                <p id="isPasted"><span style="font-size:14px;color:rgb( 0 , 0 , 0 );">4.1. Quando você
+                                <p id="isPasted"><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">4.1. Quando você
                                         utiliza
                                         nosso site, podemos coletar os seguintes dados pessoais:</span></p>
-                                <table style="width:100%;">
+                                <table class="width:100%;">
                                     <tbody>
                                         <tr>
-                                            <td style="width:33.3333%;">
-                                                <h2><span style="font-size:14px;color:rgb( 0 , 0 , 0 );">Canal de
+                                            <td class="width:33.3333%;">
+                                                <h2><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Canal de
                                                         Coleta:<strong><br></strong></span></h2>
                                             </td>
-                                            <td style="width:33.3333%;">
-                                                <h2><span style="font-size:14px;color:rgb( 0 , 0 , 0 );">Dados
+                                            <td class="width:33.3333%;">
+                                                <h2><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Dados
                                                         pessoais:<strong><br></strong></span></h2>
                                             </td>
-                                            <td style="width:33.3333%;">
+                                            <td class="width:33.3333%;">
                                                 <h2><span
-                                                        style="font-size:14px;color:rgb( 0 , 0 , 0 );">Finalidade:</span>
+                                                        class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Finalidade:</span>
                                                 </h2>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Blogs:
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Blogs:
                                                     Bispo Macedo; Ester Bezerra, Cristiane Cardoso, Renato Cardoso,
                                                     Núbia Siqueira,
                                                     Viviane Freitas.</span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome e
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome e
                                                     e-mail.</span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Cadastro para
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Cadastro para
                                                     recebimento de
                                                     newsletter e envio de mailing. &nbsp;</span></td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Central
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Central
                                                     de Atendimento<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome,
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome,
                                                     telefone, e-mail e mensagem.<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Canal
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Canal
                                                     de atendimento para dúvidas ou atendimento espiritual.<br></span>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Pastor
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Pastor
                                                     Online &nbsp;<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome,
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome,
                                                     e-mail.<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Atendimento
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Atendimento
                                                     voluntário feito por
                                                     Pastores para nossos usuários. &nbsp;<br></span></td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Doações
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Doações
                                                     Universal (Doar Agora)<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome e
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome e
                                                     sobrenome, CPF, e-mail, dados de cartão crédito.<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Quando
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Quando
                                                     você deseja nos enviar uma doação, você pode utilizar nosso canal
                                                     exclusivo para
                                                     fazermos o seu cadastro, para que assim possamos finalizar sua
@@ -316,28 +316,28 @@
                                                     bancária.<br></span></td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Pedidos
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Pedidos
                                                     de Oração<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome,
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome,
                                                     e-mail e telefone.<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Caso
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Caso
                                                     deseje fazer um pedido para oração, coletaremos seus dados pessoais
                                                     para
                                                     identificação e envio da oração.<br></span></td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Univer
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Univer
                                                     vídeo<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome,
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome,
                                                     sobrenome, CPF, e-mail, cartão de crédito e endereço.<br></span>
                                             </td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Coletamos seus dados
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Coletamos seus dados
                                                     para que
                                                     você possa se cadastrar em nosso serviço de stream, e vídeos
                                                     on-demand. Este
@@ -349,37 +349,37 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 );"><br></span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 );">4.2. Quando você utiliza nossos
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;"><br></span></p>
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">4.2. Quando você utiliza nossos
                                         aplicativos, podemos coletar os seguintes dados pessoais:</span></p>
-                                <table style="width:100%;">
+                                <table class="width:100%;">
                                     <tbody>
                                         <tr>
-                                            <td style="width:33.3333%;">
-                                                <h2><span style="font-size:14px;color:rgb( 0 , 0 , 0 );">Canal de
+                                            <td class="width:33.3333%;">
+                                                <h2><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Canal de
                                                         Coleta:</span>
                                                 </h2>
                                             </td>
-                                            <td style="width:33.3333%;">
-                                                <h2><span style="font-size:14px;color:rgb( 0 , 0 , 0 );">Dados
+                                            <td class="width:33.3333%;">
+                                                <h2><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Dados
                                                         pessoais:</span>
                                                 </h2>
                                             </td>
-                                            <td style="width:33.3333%;vertical-align:middle;">
+                                            <td class="width:33.3333%;vertical-align:middle;">
                                                 <h2><span
-                                                        style="font-size:14px;color:rgb( 0 , 0 , 0 );">Finalidade:</span>
+                                                        class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Finalidade:</span>
                                                 </h2>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Portal
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Portal
                                                     Universal<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome,
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome,
                                                     sobrenome, e-mail, localização e foto.<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Coletamos seus dados
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Coletamos seus dados
                                                     para que
                                                     você possa se cadastrar em nosso app. Caso concorde podemos utilizar
                                                     sua
@@ -388,29 +388,29 @@
                                                     &nbsp;<br></span></td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Universal
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Universal
                                                     Países<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome,
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome,
                                                     sobrenome, e-mail e foto.<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Coletamos seus dados
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Coletamos seus dados
                                                     para que
                                                     você possa se cadastrar em nosso app. &nbsp;<br></span></td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Bíblia Fiel
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Bíblia Fiel
                                                     Comentada<br></span>
                                             </td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome
                                                     completo, CPF, e-mail, telefone, foto, dados de cartão de crédito e
                                                     endereço.
                                                     &nbsp;<br><br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Coletamos seus dados
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Coletamos seus dados
                                                     para que
                                                     você possa se cadastrar em nosso app. &nbsp;Caso deseje você pode
                                                     inserir uma
@@ -420,17 +420,17 @@
                                                     &nbsp;<br></span></td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Quero
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Quero
                                                     te conhecer<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome
                                                     completo, CPF, telefone, e-mail, foto, relação com a Universal,
                                                     cidade/estado
                                                     onde reside, sexo, data de nascimento, escolaridade, interesses
                                                     pessoais.<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Coletamos seus dados
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Coletamos seus dados
                                                     para que
                                                     você possa se cadastrar em nosso app, e assim criar um perfil com
                                                     fotos,
@@ -441,14 +441,14 @@
                                                     &nbsp;<br></span></td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Univer
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Univer
                                                     vídeo<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome,
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome,
                                                     sobrenome, e-mail, cartão de crédito e endereço.<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Coletamos seus dados
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Coletamos seus dados
                                                     para que
                                                     você possa se cadastrar em nosso serviço de stream, e vídeos
                                                     on-demand. Este
@@ -460,8 +460,8 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 );"><br></span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 );">4.3. Quando você utiliza nosso
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;"><br></span></p>
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">4.3. Quando você utiliza nosso
                                         aplicativo e
                                         site podemos coletar os seguintes dados pessoais:<br><br>A INSTITUIÇÃO poderá
                                         coletar
@@ -489,28 +489,28 @@
                                         você deseja
                                         se tornar um membro da nossa INSTITUIÇÃO, podemos coletar seus dados
                                         pessoais:</span></p>
-                                <table style="width:100%;">
+                                <table class="width:100%;">
                                     <tbody>
                                         <tr>
-                                            <td style="width:33.3333%;">
-                                                <h2><span style="font-size:14px;color:rgb( 0 , 0 , 0 );">Canal de
+                                            <td class="width:33.3333%;">
+                                                <h2><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Canal de
                                                         Coleta:</span>
                                                 </h2>
                                             </td>
-                                            <td style="width:33.3333%;">
-                                                <h2><span style="font-size:14px;color:rgb( 0 , 0 , 0 );">Dados
+                                            <td class="width:33.3333%;">
+                                                <h2><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Dados
                                                         pessoais:</span>
                                                 </h2>
                                             </td>
-                                            <td style="width:33.3333%;">
+                                            <td class="width:33.3333%;">
                                                 <h2><span
-                                                        style="font-size:14px;color:rgb( 0 , 0 , 0 );">Finalidade:</span>
+                                                        class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Finalidade:</span>
                                                 </h2>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Grupos Eclesiásticos
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Grupos Eclesiásticos
                                                     (Grupo de
                                                     Saúde, Força Teen Universal, Calebe, Escola Bíblica Infantil, Força
                                                     Jovem
@@ -519,14 +519,14 @@
                                                     Auxiliares da Terapia
                                                     do Amor, Vício tem Cura, Arimatéia, Obreiros e CPO).
                                                     &nbsp;<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome
                                                     completo; endereço, CPF, telefone, data de nascimento, estado civil;
                                                     grau de
                                                     parentesco e antecedentes criminais e certidão de nada
                                                     consta.<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Cadastro de
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Cadastro de
                                                     voluntários para
                                                     participação nos grupos, que são divididos em grupos por idade e
                                                     estado civil.
@@ -539,17 +539,17 @@
                                                     para se voluntariar no grupo de Obreiros. &nbsp;<br></span></td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Depressão tem
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Depressão tem
                                                     Cura<br></span>
                                             </td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome
                                                     completo, CPF, data de nascimento, país, estado, cidade, endereço
                                                     completo e
                                                     telefone, dados referentes à saúde. &nbsp;<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Seus
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Seus
                                                     dados são coletados para fins de identificação e para que a
                                                     Universal forneça
                                                     apoio emocional e espiritual. Não é obrigatório, mas caso deseje
@@ -559,60 +559,60 @@
                                                     ajudá-lo.<br></span></td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Casamento<br></span>
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Casamento<br></span>
                                             </td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome
                                                     completo, CPF, data de nascimento, país, estado, cidade, endereço
                                                     completo,
                                                     vínculo, igreja da noiva, país, estado, bloco e região.<br></span>
                                             </td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Os
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Os
                                                     dados pessoais são utilizados para agendamento e
                                                     cadastro.<br></span></td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Acompanhamento do
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Acompanhamento do
                                                     Processo de
                                                     Casamento<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Número de protocolo
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Número de protocolo
                                                     e
                                                     CPF.<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Realizar o
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Realizar o
                                                     acompanhamento do
                                                     procedimento.<br></span></td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Ata
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Ata
                                                     de casamento<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome
                                                     completo, CPF, e assinatura dos noivos, bloco, região, igreja, nome
                                                     e assinatura
                                                     do pastor celebrante, data do casamento, nº do
                                                     protocolo. <br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Formalizar o
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Formalizar o
                                                     casamento
                                                     celebrado.<br></span></td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Fornecedores e
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Fornecedores e
                                                     Prestadores de
                                                     Serviço<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome
                                                     completo, CPF, endereço, e-mail, dados bancários e
                                                     telefone.<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Quando você se torna
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Quando você se torna
                                                     nosso
                                                     fornecedor ou prestador de serviços, podemos fazer o seu cadastro em
                                                     nossos
@@ -620,14 +620,14 @@
                                                     identificação.<br></span></td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">TV e
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">TV e
                                                     Rádio<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome
                                                     completo, CPF, endereço, profissão, imagem e voz.<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Se
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Se
                                                     você nos autorizar, utilizaremos suas imagens e voz em nosso
                                                     programa de TV e
                                                     rádio. Seus dados pessoais como nome, CPF e endereço são coletados
@@ -638,69 +638,69 @@
                                                     entrevista.<br></span></td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">SOS
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">SOS
                                                     Espiritual - Plataforma de atendimento via ligação<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Ligação
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Ligação
                                                     telefônica.<br></span>
                                             </td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Para
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Para
                                                     manter um histórico para validação do atendimento
                                                     realizado.<br></span></td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Formulários Ponto de
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Formulários Ponto de
                                                     Fé e Ponto
                                                     de Oração<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome
                                                     completo, número de telefone/WhatsApp e problema
                                                     enfrentado.<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Para
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Para
                                                     que a INSTITUIÇÃO faça ou envie orações diárias.<br></span></td>
                                         </tr>
                                     </tbody>
                                 </table>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 );"><br></span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 );">4.5. Quando você visita o
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;"><br></span></p>
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">4.5. Quando você visita o
                                         Templo de
                                         Salomão, ou qualquer outro Templo da Universal, podemos coletar seus dados
                                         pessoais:</span>
                                 </p>
-                                <table style="width:100%;">
+                                <table class="width:100%;">
                                     <tbody>
                                         <tr>
-                                            <td style="width:33.3333%;">
-                                                <h2><span style="font-size:14px;color:rgb( 0 , 0 , 0 );">Canal de
+                                            <td class="width:33.3333%;">
+                                                <h2><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Canal de
                                                         Coleta:</span>
                                                 </h2>
                                             </td>
-                                            <td style="width:33.3333%;">
-                                                <h2><span style="font-size:14px;color:rgb( 0 , 0 , 0 );">Dados
+                                            <td class="width:33.3333%;">
+                                                <h2><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Dados
                                                         pessoais:</span>
                                                 </h2>
                                             </td>
-                                            <td style="width:33.3333%;">
+                                            <td class="width:33.3333%;">
                                                 <h2><span
-                                                        style="font-size:14px;color:rgb( 0 , 0 , 0 );">Finalidade:</span>
+                                                        class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Finalidade:</span>
                                                 </h2>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Visitas ao Templo de
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Visitas ao Templo de
                                                     Salomão, e
                                                     Passeio no Jardim Bíblico<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome
                                                     completo, telefone (whatsapp), nacionalidade, idioma que
                                                     fala.<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Manter o controle, e
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Manter o controle, e
                                                     organizar
                                                     as visitas e passeios. Coletamos e utilizamos telefone (whatsapp)
                                                     para envio de
@@ -712,18 +712,18 @@
                                                     tradutor.<br></span></td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );"
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;"
                                                     id="isPasted">Escola Bíblica Infantil</span><br></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );"
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;"
                                                     id="isPasted">Nome, CPF, endereço, data de nascimento, filiação,
                                                     sexo, idade,
                                                     telefone, tipos de alergias, informações comportamentais e estado de
                                                     saúde.
                                                     &nbsp;</span><br></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );"
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;"
                                                     id="isPasted">Quando as crianças participam do nosso grupo é
                                                     necessário que os
                                                     pais preencham uma ficha de cadastro tanto da criança quanto do seu
@@ -750,45 +750,45 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 );"><br></span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 );">4.6. Se você é candidato à uma
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;"><br></span></p>
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">4.6. Se você é candidato à uma
                                         vaga de
                                         emprego em nossa INSTITUIÇÃO podemos coletar e utilizar seus dados pessoais
                                         para:</span></p>
-                                <table style="width:100%;">
+                                <table class="width:100%;">
                                     <tbody>
                                         <tr>
-                                            <td style="width:33.3333%;">
-                                                <h2><span style="font-size:14px;color:rgb( 0 , 0 , 0 );">Canal de
+                                            <td class="width:33.3333%;">
+                                                <h2><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Canal de
                                                         Coleta:</span>
                                                 </h2>
                                             </td>
-                                            <td style="width:33.3333%;">
-                                                <h2><span style="font-size:14px;color:rgb( 0 , 0 , 0 );">Dados
+                                            <td class="width:33.3333%;">
+                                                <h2><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Dados
                                                         pessoais:</span>
                                                 </h2>
                                             </td>
-                                            <td style="width:33.3333%;">
+                                            <td class="width:33.3333%;">
                                                 <h2><span
-                                                        style="font-size:14px;color:rgb( 0 , 0 , 0 );">Finalidade:</span>
+                                                        class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Finalidade:</span>
                                                 </h2>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Recrutamento e
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Recrutamento e
                                                     Seleção de
                                                     Candidatos<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome,
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome,
                                                     CPF, data de nascimento, gênero, se deseja se candidatar a vaga
                                                     como, PCD,
                                                     endereço completo, link perfil no Linkedln (opcional), informações
                                                     adicionais,
                                                     pré-requisitos, experiência acadêmica, profissional. <br></span>
                                             </td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Caso
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Caso
                                                     você queira participar dos nossos processos seletivos, coletaremos
                                                     seus dados
                                                     pessoais para inscrição em nossos processos seletivos.<br></span>
@@ -796,52 +796,52 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 );"><br></span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 );">Seus dados pessoais referentes
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;"><br></span></p>
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Seus dados pessoais referentes
                                         ao processo
                                         de recrutamento e seleção poderão ser mantidos em nossa base de dados pelo prazo
                                         de 12
                                         meses. Após esse período, serão descartados de forma segura.</span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 );"><br></span></p>
-                                <p id="isPasted"><span style="font-size:14px;color:rgb( 0 , 0 , 0 );">4.7. Se você é,
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;"><br></span></p>
+                                <p id="isPasted"><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">4.7. Se você é,
                                         ou deseja
                                         se tornar fornecedor, ou prestador de serviços em nossa INSTITUIÇÃO podemos
                                         coletar dados de
                                         pessoa jurídica, e dados pessoais de seus representantes e utilizar para:</span>
                                 </p>
-                                <table style="width:100%;">
+                                <table class="width:100%;">
                                     <tbody>
                                         <tr>
-                                            <td style="width:33.2922%;">
-                                                <h2><span style="font-size:14px;color:rgb( 0 , 0 , 0 );">Canal de
+                                            <td class="width:33.2922%;">
+                                                <h2><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Canal de
                                                         Coleta:</span>
                                                 </h2>
                                             </td>
-                                            <td style="width:33.2923%;">
-                                                <h2><span style="font-size:14px;color:rgb( 0 , 0 , 0 );">Dados
+                                            <td class="width:33.2923%;">
+                                                <h2><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Dados
                                                         pessoais:</span>
                                                 </h2>
                                             </td>
-                                            <td style="width:33.3333%;">
+                                            <td class="width:33.3333%;">
                                                 <h2><span
-                                                        style="font-size:14px;color:rgb( 0 , 0 , 0 );">Finalidade:</span>
+                                                        class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Finalidade:</span>
                                                 </h2>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td style="width:33.2922%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Fornecedores, e ou
+                                            <td class="width:33.2922%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Fornecedores, e ou
                                                     Prestadores
                                                     de Serviços<br></span></td>
-                                            <td style="width:33.2923%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Nome,
+                                            <td class="width:33.2923%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Nome,
                                                     CPF, data de nascimento, gênero, endereço completo, telefone
                                                     (whatsapp), e
                                                     telefone fixo, link perfil no Linkedln (opcional), cargo que ocupa
                                                     (na empresa,
                                                     ou no quadro societário da mesma).<br></span></td>
-                                            <td style="width:33.3333%;"><span
-                                                    style="font-size:14px;color:rgb( 0 , 0 , 0 );">Caso
+                                            <td class="width:33.3333%;"><span
+                                                    class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;">Caso
                                                     você faça parte, ou deseja fazer parte de nossa quadro de
                                                     Fornecedores, e ou
                                                     Prestadores de Serviços, coletamos seus dados pessoais, para fins de
@@ -854,14 +854,14 @@
                                         </tr>
                                     </tbody>
                                 </table>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 );"><br></span></p>
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100;"><br></span></p>
                                 <p><br></p>
                             </div>
                         </section>
                         <section class="otnotice-section" id="otnotice-section-c13f2f2a-82d9-4166-9959-0c0c131667ae">
                             <h2 class="otnotice-section-header">5. RESPONSABILIDADES DOS USUÁRIOS:</h2>
                             <div class="otnotice-section-content">
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">5.1. O Usuário se responsabiliza
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">5.1. O Usuário se responsabiliza
                                         pela
                                         precisão e veracidade dos Dados Pessoais informados no seu cadastro e reconhece
                                         que a
@@ -885,7 +885,7 @@
                         <section class="otnotice-section" id="otnotice-section-c7f72a92-2b07-4708-a5f4-19e5fdc77220">
                             <h2 class="otnotice-section-header">6. INFORMAÇÕES SOBRE DISPOSITIVOS E COOKIES:</h2>
                             <div class="otnotice-section-content">
-                                <p id="isPasted"><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">6.1. A
+                                <p id="isPasted"><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">6.1. A
                                         INSTITUIÇÃO poderá
                                         coletar informações sobre seu dispositivo, informações de hardware e software,
                                         identificadores de seu dispositivo móvel ou endereço IP, Informações de
@@ -927,8 +927,8 @@
                                         uso do Site e/ou Aplicativo por um determinado Usuário, a partir de um
                                         determinado Endereço
                                         IP.</span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )"><br></span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">6.4. O Site e/ou Aplicativo
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100"><br></span></p>
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">6.4. O Site e/ou Aplicativo
                                         podem conter
                                         links para sites de terceiros, que não estão sujeitos às disposições desta
                                         Política de
@@ -946,7 +946,7 @@
                         <section class="otnotice-section" id="otnotice-section-0ff6d526-2211-44ae-a643-0cbff1acff35">
                             <h2 class="otnotice-section-header">7. BASES LEGAIS UTILIZADAS PELA INSTITUIÇÃO:</h2>
                             <div class="otnotice-section-content">
-                                <p id="isPasted"><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">A INSTITUIÇÃO
+                                <p id="isPasted"><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">A INSTITUIÇÃO
                                         não possui
                                         nenhuma operação de tratamento de dados pessoais que não esteja respaldada nas
                                         bases legais
@@ -958,32 +958,32 @@
                                         os seus
                                         dados de acordo com uma das hipóteses listadas abaixo:</span></p>
                                 <ul>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Mediante coleta de seu
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Mediante coleta de seu
                                         consentimento expresso
                                         e inequívoco;</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Para o cumprimento de obrigação
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Para o cumprimento de obrigação
                                         legal ou
                                         regulatória, inclusive com relação aos relatórios financeiros e regulamentares,
                                         relatórios
                                         de eventos adversos e obrigações fiscais, entre outros ou para fins de exercício
                                         regular de
                                         direito em processo judicial, administrativo ou arbitral.</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Quando necessário para a execução
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Quando necessário para a execução
                                         de contrato
                                         ou de procedimentos preliminares relacionados a contrato do qual você seja parte
                                         e a seu
                                         pedido; &nbsp; &nbsp;</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Para o exercício regular de
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Para o exercício regular de
                                         direitos em
                                         processo judicial, administrativo ou arbitral;</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Para que protejamos a vida ou a
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Para que protejamos a vida ou a
                                         incolumidade
                                         física de você, titular, ou de terceiros;</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Quando verificarmos que é
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Quando verificarmos que é
                                         necessário para
                                         atender aos nossos interesses legítimos ou de terceiros;</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Para a proteção do crédito;</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Para a garantia da prevenção à
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Para a proteção do crédito;</li>
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Para a garantia da prevenção à
                                         fraude e à
                                         segurança do titular;</li>
                                 </ul>
@@ -993,7 +993,7 @@
                             <h2 class="otnotice-section-header">8. COMPARTILHAMENTO DE DADOS PESSOAIS COM TERCEIROS:
                             </h2>
                             <div class="otnotice-section-content">
-                                <p id="isPasted"><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">Como já
+                                <p id="isPasted"><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Como já
                                         destacado ao longo
                                         deste documento, a INSTITUIÇÃO se preocupa bastante com a privacidade e a
                                         proteção dos dados
@@ -1002,37 +1002,37 @@
                                         necessário e para cumprir com finalidades predeterminadas. Por essa razão, seus
                                         dados
                                         poderão ser compartilhados nas seguintes hipóteses:</span></p>
-                                <ol style="list-style-type:lower-alpha">
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Quando necessário para
+                                <ol class="list-class-type:lower-alpha">
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Quando necessário para
                                         cumprimento de
                                         obrigação legal ou por força de determinação de autoridade administrativa
                                         competente para
                                         tanto;</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Quando necessário para que
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Quando necessário para que
                                         prestemos um
                                         serviço ou forneçamos um produto a você, titular, mediante contrato firmado ou
                                         por meio de
                                         sua solicitação;</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Para que a INSTITUIÇÃO possa
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Para que a INSTITUIÇÃO possa
                                         exercer
                                         regularmente seus direitos em processo judicial, administrativo ou arbitral;
                                     </li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Com setores internos da
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Com setores internos da
                                         INSTITUIÇÃO quando
                                         necessário para sanar alguma dúvida ou prestar algum serviço. &nbsp;</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Com empresas que fazem parte do
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Com empresas que fazem parte do
                                         grupo da
                                         INSTITUIÇÃO. &nbsp;</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Com empresas parceiras quando
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Com empresas parceiras quando
                                         necessário para
                                         realização de cursos de casamento.</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Plataformas terceiras que nos
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Plataformas terceiras que nos
                                         ajudam no
                                         atendimento aos nossos usuários. &nbsp;</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Empresas de infraestrutura para
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Empresas de infraestrutura para
                                         manter o bom
                                         funcionamento dos nossos sites e aplicativos.</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Gateways de pagamento para a
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Gateways de pagamento para a
                                         intermediação
                                         das doações realizadas pelo Site e/ou Aplicativo da INSTITUIÇÃO. Somente os
                                         Dados Pessoais
@@ -1047,31 +1047,31 @@
                                 PESSOAIS:
                             </h2>
                             <div class="otnotice-section-content">
-                                <p id="isPasted"><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">9.1. Os dados
+                                <p id="isPasted"><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">9.1. Os dados
                                         tratados são
                                         armazenados, via de regra, pelo prazo necessário ou permitido, a depender do
                                         tratamento,
                                         conforme a base legal que o justifica. Sendo assim, é certo informar o término
                                         do tratamento
                                         de seus dados ocorrerá:</span></p>
-                                <ol style="list-style-type:lower-alpha">
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">mediante verificação de que a
+                                <ol class="list-class-type:lower-alpha">
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">mediante verificação de que a
                                         finalidade foi
                                         alcançada ou de que os dados deixaram de ser necessários ou pertinentes ao
                                         alcance da
                                         finalidade específica almejada;</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">após o fim do período de
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">após o fim do período de
                                         tratamento informado
                                         a você, titular;</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">mediante solicitação de exclusão
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">mediante solicitação de exclusão
                                         por parte do
                                         titular, caso a modalidade de tratamento comporte este tipo de pedido;</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">por determinação da Autoridade
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">por determinação da Autoridade
                                         Nacional de
                                         Proteção de Dados (ANPD), quando houver violação ao disposto na LGPD. &nbsp;
                                     </li>
                                 </ol>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">No entanto, em alguns casos, os
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">No entanto, em alguns casos, os
                                         dados
                                         pessoais poderão ser retidos para garantia da segurança jurídica de todas as
                                         partes
@@ -1079,16 +1079,16 @@
                                         ou para
                                         nosso uso exclusivo, nesse último caso, vedado o acesso por terceiros, desde que
                                         anonimizados previamente estes dados.</span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )"><br></span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">Ressaltamos que, enquanto seus
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100"><br></span></p>
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Ressaltamos que, enquanto seus
                                         dados
                                         estiverem armazenados pela INSTITUIÇÃO você poderá solicitar a confirmação deste
                                         armazenamento e até mesmo acesso aos dados ou a sua correção, desde que não
                                         tenham sido
                                         anonimizados previamente à consulta para nosso uso exclusivo e interno.</span>
                                 </p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )"><br></span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">Como explicitado no tópico
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100"><br></span></p>
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Como explicitado no tópico
                                         acima, a
                                         utilização de cada base legal interferirá diretamente no ciclo de vida do
                                         armazenamento de
@@ -1097,22 +1097,22 @@
                                         seus dados pessoais poderão ser mantidos em nossa base mesmo após o término do
                                         tratamento
                                         para:</span></p>
-                                <ol style="list-style-type:lower-roman">
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">cumprimento de obrigação legal ou
+                                <ol class="list-class-type:lower-roman">
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">cumprimento de obrigação legal ou
                                         regulatória
                                         pela INSTITUIÇÃO; &nbsp;</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">transferência a terceiro, desde
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">transferência a terceiro, desde
                                         que
                                         respeitados os requisitos de tratamento de dados dispostos na LGPD; ou &nbsp;
                                     </li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">nosso uso exclusivo, após a
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">nosso uso exclusivo, após a
                                         completa
                                         anonimização dos dados e com a garantia de que terceiros não acessarão tais
                                         informações.
                                     </li>
                                 </ol>
                                 <p><span dir="ltr" id="isPasted"
-                                        style="font-size:14px;color:rgb( 0 , 0 , 0 )">Por fim,
+                                        class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Por fim,
                                         conforme mencionado no art. 40 da LGPD, a autoridade nacional e/ou órgão
                                         regulador poderá
                                         dispor sobre padrões de portabilidade de dados e tempo de guarda, diante da
@@ -1123,7 +1123,7 @@
                         <section class="otnotice-section" id="otnotice-section-b8ff9656-cce9-4433-9e50-cac6064237e4">
                             <h2 class="otnotice-section-header">10. MEDIDAS DE SEGURANÇA:</h2>
                             <div class="otnotice-section-content">
-                                <p id="isPasted"><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">10.1. A
+                                <p id="isPasted"><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">10.1. A
                                         INSTITUIÇÃO toma
                                         todas as providências técnicas e organizacionais para proteger os Dados Pessoais
                                         dos
@@ -1133,17 +1133,17 @@
                                         INSTITUIÇÃO, a
                                         saber: </span></p>
                                 <ul>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Utilização do protocolo TLS
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Utilização do protocolo TLS
                                         (Transport Layer
                                         Security) no Site; </li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Armazenamento de Dados Pessoais e
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Armazenamento de Dados Pessoais e
                                         informações
                                         em banco de dados protegido; </li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Controle de acesso; e</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Duplo fator de autenticação de
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Controle de acesso; e</li>
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Duplo fator de autenticação de
                                         Usuários.</li>
                                 </ul>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )"> 10.2. Os Dados Pessoais serão
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100"> 10.2. Os Dados Pessoais serão
                                         armazenados
                                         em um ambiente operacional seguro que não é acessível ao público. Nós nos
                                         esforçamos para
@@ -1179,7 +1179,7 @@
                         <section class="otnotice-section" id="otnotice-section-b7c867c4-adae-4afc-b613-efbf1e514c36">
                             <h2 class="otnotice-section-header">11. MONITORAMENTO POR CFTV:</h2>
                             <div class="otnotice-section-content">
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">Para manter a segurança de todos
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Para manter a segurança de todos
                                         vocês, a
                                         INSTITUIÇÃO utiliza câmeras de vigilância em suas unidades. Este tratamento tem
                                         por
@@ -1193,7 +1193,7 @@
                         <section class="otnotice-section" id="otnotice-section-06976ae0-b4e4-440d-8e25-1eafbce5a992">
                             <h2 class="otnotice-section-header">12. TRANSFERÊNCIA INTERNACIONAL DE DADOS PESSOAIS:</h2>
                             <div class="otnotice-section-content">
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">12.1. A INSTITUIÇÃO pode
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">12.1. A INSTITUIÇÃO pode
                                         transferir seus
                                         Dados Pessoais para fora do Brasil, como por exemplo nos casos de armazenamento
                                         de dados
@@ -1207,7 +1207,7 @@
                         <section class="otnotice-section" id="otnotice-section-37f9798e-d63d-43e1-a89d-c9b6cdc41ba3">
                             <h2 class="otnotice-section-header">13. DIREITO DOS TITULARES DE DADOS PESSOAIS:</h2>
                             <div class="otnotice-section-content">
-                                <p id="isPasted"><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">13.1. De acordo
+                                <p id="isPasted"><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">13.1. De acordo
                                         com o Art.
                                         18º da LGPD, você, titular tem alguns direitos que podem ser solicitados. Seus
                                         direitos,
@@ -1229,19 +1229,19 @@
                                         motivo, que
                                         poderá ser um dos seguintes:</span></p>
                                 <ul>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">A INSTITUIÇÃO não é agente de
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">A INSTITUIÇÃO não é agente de
                                         tratamento dos
                                         seus dados, hipótese em que indicaremos, caso esteja em nosso poder, o agente
                                         correto;
                                         ou&nbsp;</li>
-                                    <li style="font-size:14px;color:rgb( 0 , 0 , 0 )">Existe alguma razão de fato ou de
+                                    <li class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Existe alguma razão de fato ou de
                                         direito que
                                         impede a adoção imediata da providência solicitada, a qual, caso possível, será
                                         informada na
                                         resposta.</li>
                                 </ul>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )"><br></span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">Por fim, para que possamos
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100"><br></span></p>
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">Por fim, para que possamos
                                         atender às
                                         requisições feitas por você, titular, e para garantir a segurança dos seus
                                         dados, é possível
@@ -1257,7 +1257,7 @@
                             <h2 class="otnotice-section-header">14. VALIDADE DESTA POLÍTICA E HISTÓRICO DE VERSÕES:
                             </h2>
                             <div class="otnotice-section-content">
-                                <p><span style="color:rgb( 0 , 0 , 0 );font-size:14px">A presente política está em sua
+                                <p><span class="color:rgb( 0 , 0 , 0 );font-size:14px">A presente política está em sua
                                         segunda
                                         versão, contudo está sujeita a modificações posteriores para atualização e, por
                                         este motivo,
@@ -1269,14 +1269,14 @@
                         <section class="otnotice-section" id="otnotice-section-94a41788-bb97-4014-8a01-bf99568bed4d">
                             <h2 class="otnotice-section-header">15. SUPORTE AOS SISTEMAS E APPS:</h2>
                             <div class="otnotice-section-content">
-                                <p><strong id="isPasted"><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">15.1.
+                                <p><strong id="isPasted"><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">15.1.
                                             Caso precise
                                             de ajuda para acessar algum de nossos aplicativos, tais como Portal
                                             Universal, ou algum
                                             de nossos sistemas, entre em contato através do canal Fale Conosco, ou envie
                                             um e-mail
                                             para&nbsp;</span></strong><span
-                                        style="font-size:14px;color:rgb( 0 , 0 , 255 )"><a
+                                        class="font-size:14px;color:rgb( 0 , 0 , 255 )"><a
                                             href="mailto:appuniversal@universal.org"
                                             rel="nofollow"><strong>appuniversal@universal.org</strong></a><strong>.</strong></span>
                                 </p>
@@ -1285,19 +1285,19 @@
                         <section class="otnotice-section" id="otnotice-section-10eadab0-a168-448d-befa-b882eb1a9d5a">
                             <h2 class="otnotice-section-header">16. CONTATO SOBRE LGPD e ENCARREGADO:</h2>
                             <div class="otnotice-section-content">
-                                <p id="isPasted"><span style="font-size:14px;color:rgb( 0 , 0 , 0 )">16.1. Caso tenha
+                                <p id="isPasted"><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100">16.1. Caso tenha
                                         alguma
                                         dúvida com relação a nossa Política de Privacidade ou sobre como tratamos os
                                         seus dados
                                         pessoais com base na LGPD (Lei Geral de Proteção de Dados), por favor, entre em
                                         contato
                                         conosco enviando um e-mail para </span><span
-                                        style="font-size:14px;color:rgb( 0 , 0 , 255 )"><a
+                                        class="font-size:14px;color:rgb( 0 , 0 , 255 )"><a
                                             href="mailto:dpo@universal.org"
                                             rel="nofollow"><strong>dpo@universal.org</strong></a><strong>.</strong></span>
                                 </p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )"><strong><br></strong></span></p>
-                                <p><span style="font-size:14px;color:rgb( 0 , 0 , 0 )"><strong>José Alfredo Junior
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100"><strong><br></strong></span></p>
+                                <p><span class="text-lg ml-4 font-medium text-gray-900 dark:text-gray-100"><strong>José Alfredo Junior
                                             &nbsp;<br>Encarregado pelo tratamento de dados pessoais
                                             (LGPD)</strong></span></p>
                                 <p><br></p>

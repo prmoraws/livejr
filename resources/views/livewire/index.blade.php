@@ -4,38 +4,8 @@
     <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
         <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-xl sm:rounded-lg">
 
-            <div
-                class="p-6 lg:p-8 bg-white dark:bg-gray-800 dark:bg-gradient-to-bl dark:from-gray-700/50 dark:via-transparent border-b border-gray-200 dark:border-gray-700">
-                <div class="flex -space-x-2 overflow-hidden">
-                    @foreach ($membros->take(5) as $membro)
-                        <img class="inline-block h-10 w-9 rounded-full ring-2 ring-white"
-                            src="{{ url("storage/{$membro->foto}") }}" alt="{{ $membro->nome }}">
-                    @endforeach
-                </div>
-                <h1 class="mt-8 text-2xl font-medium text-gray-900 dark:text-white">
-                    Últimos Membros cadastrados!
-                </h1>
-                <ul role="list" class="divide-y divide-gray-100">
-                    @foreach ($membros->sortDesc()->take(3) as $membro)
-                        <li class="flex justify-between gap-x-6 py-5">
-                            <div class="flex min-w-0 gap-x-4">
-                                <img class="h-12 w-10 flex-none rounded-full bg-gray-50"
-                                    src="{{ url("storage/{$membro->foto}") }}" alt="">
-                                <div class="min-w-0 flex-auto">
-                                    <p class="text-sm font-semibold leading-6 text-gray-900">{{ $membro->nome }}</p>
-                                    <p class="mt-1 truncate text-xs leading-5 text-gray-500">{{ $membro->grupo }}</p>
-                                </div>
-                            </div>
-                            <div class="hidden shrink-0 sm:flex sm:flex-col sm:items-end">
-                                <p class="text-sm leading-6 text-gray-900">{{ $membro->profissao }}</p>
-                                <p class="mt-1 text-xs leading-5 text-gray-500">Criado/Atualizado <time
-                                        datetime="20-12-1914">{{ $membro->updated_at ?? $membro->created_at }}</time>
-                                </p>
-                            </div>
-                        </li>
-                    @endforeach
-                </ul>
-            </div>
+            <x-widget-membros/>
+            <x-widget-numeros/>
 
             <div class="bg-gray-200 dark:bg-gray-800 bg-opacity-25 grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8 p-6 lg:p-8">
                 <div>
