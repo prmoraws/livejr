@@ -1,5 +1,21 @@
 <?php
 
+
+/*
+|--------------------------------------------------------------------------
+| Dompdf
+|--------------------------------------------------------------------------
+|
+| Em sua essência, dompdf é (principalmente) um layout HTML compatível com
+| CSS 2.1 e um mecanismo de renderização escrito em PHP. É um renderizador
+| baseado em estilo: ele baixa e lê folhas de estilo externas, tags de estilo
+| embutidas e atributos de estilo de elementos HTML individuais. Ele também
+| oferece suporte à maioria dos atributos HTML de apresentação.
+|
+*/
+
+//$app->register(\Barryvdh\DomPDF\ServiceProvider::class);
+
 /*
 |--------------------------------------------------------------------------
 | Create The Application

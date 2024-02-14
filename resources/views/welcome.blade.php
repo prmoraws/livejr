@@ -1,3 +1,9 @@
+@php
+    $url = route('register');
+    $button_ = "<a href='{$url}' class='ml-4 font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500'>Registre-se</a>";
+
+@endphp
+
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
@@ -33,8 +39,10 @@
                         class="font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Entrar</a>
 
                     @if (Route::has('register'))
-                        <a href="{{ route('register') }}"
-                            class="ml-4 font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Registre-se</a>
+                        <button
+                            class="ml-4 font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400  focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500"
+                            onclick="myFunction()">Clique aqui</button>
+                        <p id="btn_reg"></p>
                     @endif
                 @endauth
             </div>
@@ -58,7 +66,7 @@
                                     src="{{ url('storage/profile-photos/iurd-logo-256.jpg') }}" alt="">
                                 <div class="mt-4 flex items-center justify-center space-x-3 text-base">
                                     <div class="font-semibold text-gray-900"> Universal </div>
-                                    <svg viewBox="0 0 2 2" width="3" height="3" aria-hidden="true"
+                                    <svg viewBox="0 0 2 2" width="7" height="7" aria-hidden="true"
                                         class="fill-gray-900">
                                         <circle cx="1" cy="1" r="1" />
                                     </svg>
@@ -72,6 +80,21 @@
         </div>
     </div>
     @livewireScripts
+    <script>
+        function myFunction() {
+            var x;
+            var token = prompt("Digite seu token");
+            if (token == 2024) {
+                x = "<?php print $button_; ?>";
+                document.getElementById("btn_reg").innerHTML = x;
+            } else if (token == '' || token == null) {
+
+            } else{
+                x = "Token incorreto";
+                document.getElementById("btn_reg").innerHTML = x;
+            }
+        }
+    </script>
 </body>
 
 </html>
